@@ -1,0 +1,10 @@
+{
+    "name": "vittor/api",
+    "licence": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
